@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science student from Pakistan** passionate about building real-world AI/ML solutions and SaaS products.
+I'm a **Computer Science student at National College of Business Administration & Economics** passionate about building real-world AI/ML solutions and SaaS products.
 
 - 🚀 Currently building **[Journyify](https://github.com/dawoodahmadbakhsh21-web)** — an AI-powered journaling SaaS platform
 - 🤖 Deep interest in **Machine Learning**, **Automation**, and **Full-Stack Development**
